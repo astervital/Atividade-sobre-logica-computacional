@@ -1,12 +1,12 @@
 programa {
   funcao inicio() {
-    // Coment·rio de uma linha
+    // Coment√°rio de uma linha
     /*
     Curso: Logica Computacional
     Prof Eduardo
     Data: 31/07/2024
-    Nome do Aluno: Gabrielly
-    DescriÁ„o: eu n‚o sei o que botar aqui
+    Nome do Aluno: Thayn√°
+    Descri√ß√£o: oiee
     */
   }
 }
