@@ -2,16 +2,16 @@ programa {
   funcao inicio() {
     //Algoritmo para exibir nome e idade
 
-    //DeclaraÁ„o das variaveis
+    //Declara√ß√£o das variaveis
     cadeia nome
     inteiro idade
     
-    //AtribuiÁ„o de variaveis
-    nome="Gabrielly"
-    idade = 16
+    //Atribui√ß√£o de variaveis
+    nome="Thayn√°"
+    idade = 17
     escreva("Nome: ", nome, "\nIdade: ", idade)
 
-    //AtrbuiÁ„o com comando Leia()
+    //Atrbui√ß√£o com comando Leia()
     escreva("\nDigite seu nome: ")
     leia(nome)
     escreva("Digite sua idade: ")
